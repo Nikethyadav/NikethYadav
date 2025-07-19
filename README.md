@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Niketh Yadav</h1>
-<h3 align="center">🚀 A Senior Data Scientist from India specializing in GenAI, RAG & Intelligent Systems</h3>
+<h3 align="center">🚀 A Senior Data Scientist from India specializing in GenAI, Agentic AI, RAG & AI Intelligent Systems</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - ⚡ Fun fact: **I turn clinical policies and messy codebases into intelligent AI agents 😄**
-- 🔭 I’m currently working on **LLM-powered Code Conversion Tools & Clinical Criteria Automation**
+- 🔭 I’m currently working on **LLM-powered Applications and systmes**
 - 🌱 Exploring **Model Context Protocol (MCP)** and **Autonomous AI Agents**
-- 💬 Ask me about: **GenAI, Prompt Engineering, NLP, RAG, AI Agents, Vector DBs, MLOps**
+- 💬 Ask me about: **GenAI, Prompt Engineering,Machine Learning, Deep Learnng,NLP, RAG, AI Agents, Vector DBs, MLOps**
 - 📫 How to reach me: **nikethyadav6131@gmail.com**
 
 ---
